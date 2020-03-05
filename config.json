@@ -1,0 +1,15 @@
+{  
+  "service": {
+    "app-name": "kbss-book-service",
+    "app-logs": null,
+    "log-level": "INFO",
+    "log-stdout": true
+  },
+  "mongo.prod": {
+    "username": "admin",
+    "password": "FwhjTbWz4bCr6JpC",
+    "host": "cluster0-hf5mo.gcp.mongodb.net",
+    "port": 27017,
+    "database": "test"
+  }
+}

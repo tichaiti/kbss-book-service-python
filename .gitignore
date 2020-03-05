@@ -1,0 +1,12 @@
+# environment
+env/
+lib/
+venv/
+*.pyc
+
+
+# IDE
+.idea/
+.vscode
+.project
+.settings/
